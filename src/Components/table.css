@@ -1,0 +1,14 @@
+table{
+    border-collapse: collapse;
+    margin: 0 auto 20px auto;
+}
+td, th {
+    padding: 3px;
+    border: 1px solid black;
+    min-width: 20px;
+}
+
+#tableBlock{
+    max-width: 100%;
+
+}
